@@ -1,0 +1,10 @@
+© 2026 Gonzalo Sagarraga. Todos los derechos reservados.
+
+El código, el diseño y la elaboración de los indicadores de este mapa son obra del autor.
+No se permite copiarlos, modificarlos ni redistribuirlos sin autorización escrita.
+
+Los datos de base son del INDEC (Censo Nacional de Población, Hogares y Viviendas 2022) y se citan como:
+«Fuente: elaboración propia con base en datos del INDEC. Censo Nacional de Población, Hogares y Viviendas 2022,
+procesado con Redatam 7». Las calles y límites provienen de OpenStreetMap (© colaboradores de OpenStreetMap, ODbL).
+
+Contacto: gsagarraga@gmail.com
